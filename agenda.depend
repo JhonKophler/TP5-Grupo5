@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1641372987 source:c:\users\jhon kophler\documents\works\universidad utn\programacion 1\tareas\tp\agenda\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreria.h"
+
+1641361605 c:\users\jhon kophler\documents\works\universidad utn\programacion 1\tareas\tp\agenda\libreria.h
+
+1641373471 source:c:\users\jhon kophler\documents\works\universidad utn\programacion 1\tareas\tp\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreria.h"
+
